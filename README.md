@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m focused on working towards making the Open Metaverse a positive reality for society. 
-- 🌱 I’m intrested in XR:VR / Web 3.0 / Gaming / Macro themes / Design / Sci-Fi
-- 💞️ I’m looking to connect, and collaborate with anyone building for the Open Metaverse
-- 📫 How to reach me twitter @WhiteRabbit_w3
+- 💜 I’m focused on working towards making the Open Metaverse a positive reality for society. 
+- 🛠️ We're building **Metafabrix**, a multichain infrastructure protocol for the Open Metaverse. **[We're hiring]**
+- ❣️ I support several initiatives around the Open Metaverse, including the Open Metaverse Interoperability Group (OMI)
+- 🌱 I’m passionate about XR:VR / Web 3.0 / Gaming / Macro themes / Design / Sci-Fi
+- 💞️ I’m looking to connect, and collaborate with anyone building for the Open Metaverse (particularly 3D developers and fullstack blockchain engineers)
+- 📫 Please message me on twitter @WhiteRabbit_w3 
 
 <!---
 WhiteRabbit-w3/WhiteRabbit-w3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
