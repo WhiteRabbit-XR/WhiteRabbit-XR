@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt
 - 💜 I’m focused on working towards making the Open Metaverse a positive reality for society. 
-- 🛠️ We're building **Metafabrix**, a multichain infrastructure protocol for the Open Metaverse. **[We're hiring]**
+- 🛠️ **Metafabrix Labs** is building a multichain infrastructure protocol for the Open Metaverse. **[We're hiring]**
 - ❣️ I support several initiatives around the Open Metaverse, including the Open Metaverse Interoperability Group (OMI)
 - 🌱 I’m passionate about XR:VR / Web 3.0 / Gaming / Macro themes / Design / Sci-Fi
 - 💞️ I’m looking to connect, and collaborate with anyone building for the Open Metaverse (particularly 3D developers and fullstack blockchain engineers)
