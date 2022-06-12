@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Matt
-- 💜 I’m focused on working towards making the Open Metaverse a positive reality for society. 
-- 🛠️ **Metafabrix Labs** is building secure infrastructure for the Open Metaverse **[We're hiring]**
+- 🛠️ I'm the co-founder & CEO of **Metafabrix Labs** which is building secure infrastructure for the Open Metaverse & its digital economy **[We're hiring]**
+- 💜 Passionate about the future of spatial computing (XR: VR AR) / Social Virtual Worlds / Digital Economy / Behavioural Dynamics / Macro themes / Design / Sci-Fi 
 - ❣️ I support several initiatives around the Open Metaverse, including the Open Metaverse Interoperability Group (OMI)
-- 🌱 I’m passionate about XR:VR / Social Virtual Worlds / Digital Assets / Behavioural Dynamics / Macro themes / Design / Sci-Fi
+- 🌱 
 - 💞️ I’m looking to connect, and collaborate with anyone building for the Open Metaverse (particularly 3D developers and fullstack engineers)
 - 📫 Please message me on twitter @WhiteRabbit_XR 
 
 <!---
-WhiteRabbit-w3/WhiteRabbit-w3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WhiteRabbit-XR/WhiteRabbit-XR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
