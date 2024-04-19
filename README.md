@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Matt
+- Experienced VC backed startup founder & institutional global macro investor
+- Personal projects in Python, Mysql, javascript / React 
 
 
 <!---
