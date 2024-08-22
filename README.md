@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Matt
-- Experienced VC backed startup founder & institutional global macro investor
-- Personal projects in Python, Flask, Mysql, Javascript / React 
+- Entrepreneur & former macro investor
+- 🇬🇧 often found in SF🌉
+- Python, Flask, Javascript, Typescript, React, mysql 
 
 
 <!---
