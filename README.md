@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matt
 - Entrepreneur & former macro investor
 - Brit 🇬🇧 often found in SF 🌉
-- Python, Flask, Javascript, Typescript, React, mysql
+- Python, Flask, Javascript, Typescript, React, mysql, PostgreSQL
 
 
 <!---
