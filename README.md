@@ -2,7 +2,7 @@
 - Entrepreneur & former macro investor
 - Brit 🇬🇧 often found in SF 🌉
 - Building with LLM's 
-- Python, Flask, Javascript, Typescript, React, mysql, PostgreSQL
+- Python, Typescript / Javascript, React, mysql, PostgreSQL
 
 
 <!---
