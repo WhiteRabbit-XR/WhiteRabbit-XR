@@ -5,6 +5,7 @@
 - Python, Typescript / Javascript, React, mysql, PostgreSQL
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
 
 
 <!---
