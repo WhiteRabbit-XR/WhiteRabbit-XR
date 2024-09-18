@@ -8,6 +8,7 @@
 ![Typescript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd54)
 ![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-a64d79?style=for-the-badge&logo=react&logoColor=ffdd54)
+![Nextjs](https://img.shields.io/badge/nextjs-a64d79?style=for-the-badge&logo=nextjs&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-45818e?style=for-the-badge&logo=flask&logoColor=ffdd54)
 ![Sqlalchemy](https://img.shields.io/badge/sqlalchemy-45818e?style=for-the-badge&logo=sqlalchemy&logoColor=ffdd54)
 ![Postgresql](https://img.shields.io/badge/postgresql-38761d?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
