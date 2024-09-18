@@ -12,6 +12,7 @@
 ![Sqlalchemy](https://img.shields.io/badge/sqlalchemy-45818e?style=for-the-badge&logo=sqlalchemy&logoColor=ffdd54)
 ![Postgresql](https://img.shields.io/badge/postgresql-38761d?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
 ![Mysql](https://img.shields.io/badge/mysql-38761d?style=for-the-badge&logo=mysql&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-b45f06?style=for-the-badge&logo=docker&logoColor=ffdd54)
 
 
 
