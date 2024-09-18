@@ -5,8 +5,14 @@
 - Python, Typescript / Javascript, React, mysql, PostgreSQL
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Typescript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd54)
 ![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-3670A0?style=for-the-badge&logo=flask&logoColor=ffdd54)
+![Sqlalchemy](https://img.shields.io/badge/sqlalchemy-3670A0?style=for-the-badge&logo=sqlalchemy&logoColor=ffdd54)
+![Postgresql](https://img.shields.io/badge/postgresql-3670A0?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
 ![Mysql](https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=ffdd54)
+
 
 
 <!---
