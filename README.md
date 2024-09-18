@@ -2,12 +2,13 @@
 - Entrepreneur & former macro investor
 - Brit 🇬🇧 often found in SF 🌉
 - Building with LLM's 
-- Python, Typescript / Javascript, React, mysql, PostgreSQL
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Typescript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd54)
 ![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-d9d2e9?style=for-the-badge&logo=react&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-a64d79?style=for-the-badge&logo=react&logoColor=ffdd54)
+
 ![Flask](https://img.shields.io/badge/flask-3670A0?style=for-the-badge&logo=flask&logoColor=ffdd54)
 ![Sqlalchemy](https://img.shields.io/badge/sqlalchemy-a2c4c9?style=for-the-badge&logo=sqlalchemy&logoColor=ffdd54)
 ![Postgresql](https://img.shields.io/badge/postgresql-b6d7a8?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
