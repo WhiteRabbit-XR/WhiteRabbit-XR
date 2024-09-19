@@ -10,6 +10,8 @@
 ![React](https://img.shields.io/badge/react-a64d79?style=for-the-badge&logo=react&logoColor=ffdd54)
 ![Next.js](https://img.shields.io/badge/next.js-a64d79?style=for-the-badge&logo=next.js&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-45818e?style=for-the-badge&logo=flask&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-45818e?style=for-the-badge&logo=django&logoColor=ffdd54)
+![Fastapi](https://img.shields.io/badge/fastapi-45818e?style=for-the-badge&logo=fastapi&logoColor=ffdd54)
 ![Sqlalchemy](https://img.shields.io/badge/sqlalchemy-45818e?style=for-the-badge&logo=sqlalchemy&logoColor=ffdd54)
 ![Postgresql](https://img.shields.io/badge/postgresql-38761d?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
 ![Mysql](https://img.shields.io/badge/mysql-38761d?style=for-the-badge&logo=mysql&logoColor=ffdd54)
