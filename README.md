@@ -9,6 +9,8 @@
 ![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-a64d79?style=for-the-badge&logo=react&logoColor=ffdd54)
 ![Next.js](https://img.shields.io/badge/next.js-a64d79?style=for-the-badge&logo=next.js&logoColor=ffdd54)
+![Ghost](https://img.shields.io/badge/ghost-a64d79?style=for-the-badge&logo=ghost&logoColor=ffdd54)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-d5a6bd?style=for-the-badge&logo=tailwindcss&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-45818e?style=for-the-badge&logo=flask&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-45818e?style=for-the-badge&logo=django&logoColor=ffdd54)
 ![Fastapi](https://img.shields.io/badge/fastapi-45818e?style=for-the-badge&logo=fastapi&logoColor=ffdd54)
