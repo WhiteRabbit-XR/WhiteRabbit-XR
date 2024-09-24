@@ -3,7 +3,7 @@
 - Brit 🇬🇧 often found in SF 🌉
 - Building with LLM's
 
-**Tech**
+**Tech Stack**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Typescript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd54)
