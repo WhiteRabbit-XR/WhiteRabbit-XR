@@ -23,7 +23,7 @@
 ![Coolify](https://img.shields.io/badge/coolify-b45f06?style=for-the-badge&logo=codio&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-b45f06?style=for-the-badge&logo=docker&logoColor=ffdd54)
 ![Hetzner](https://img.shields.io/badge/hetzner-870c0c?style=for-the-badge&logo=hetzner&logoColor=ffdd54) 
-![Aws](https://img.shields.io/badge/amazonwebservices-870c0c?style=for-the-badge&logo=aws&logoColor=ffdd54)
+![Aws](https://img.shields.io/badge/aws-870c0c?style=for-the-badge&logo=amazonwebservices&logoColor=ffdd54)
 
 
 
