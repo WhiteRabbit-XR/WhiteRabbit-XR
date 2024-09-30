@@ -13,7 +13,6 @@
 ![Electron](https://img.shields.io/badge/electron-a64d79?style=for-the-badge&logo=electron&logoColor=ffdd54)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-a64d79?style=for-the-badge&logo=tailwindcss&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-45818e?style=for-the-badge&logo=flask&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-45818e?style=for-the-badge&logo=django&logoColor=ffdd54)
 ![Fastapi](https://img.shields.io/badge/fastapi-45818e?style=for-the-badge&logo=fastapi&logoColor=ffdd54)
 ![Sqlalchemy](https://img.shields.io/badge/sqlalchemy-45818e?style=for-the-badge&logo=sqlalchemy&logoColor=ffdd54)
 ![Redis](https://img.shields.io/badge/redis-45818e?style=for-the-badge&logo=redis&logoColor=ffdd54)
