@@ -18,7 +18,7 @@
 ![Redis](https://img.shields.io/badge/redis-45818e?style=for-the-badge&logo=redis&logoColor=ffdd54)
 ![Celery](https://img.shields.io/badge/celery-45818e?style=for-the-badge&logo=celery&logoColor=ffdd54)
 ![Rabbitmq](https://img.shields.io/badge/rabbitmq-45818e?style=for-the-badge&logo=rabbitmq&logoColor=ffdd54)
-![Baml](https://img.shields.io/badge/rabbitmq-c99f2a?style=for-the-badge&logo=rabbitmq&logoColor=ffdd54)
+![Baml](https://img.shields.io/badge/baml-c99f2a?style=for-the-badge&logo=baml&logoColor=ffdd54)
 ![Postgresql](https://img.shields.io/badge/postgresql-38761d?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
 ![Mysql](https://img.shields.io/badge/mysql-38761d?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 ![Coolify](https://img.shields.io/badge/coolify-b45f06?style=for-the-badge&logo=codio&logoColor=ffdd54)
