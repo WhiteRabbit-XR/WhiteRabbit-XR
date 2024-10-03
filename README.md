@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Matt
-- Entrepreneur & former macro investor
-- Brit 🇬🇧 often found in SF 🌉
+👋 Hi, I’m Matt
 
 **Tech Stack**
 
@@ -18,7 +16,7 @@
 ![Redis](https://img.shields.io/badge/redis-45818e?style=for-the-badge&logo=redis&logoColor=ffdd54)
 ![Celery](https://img.shields.io/badge/celery-45818e?style=for-the-badge&logo=celery&logoColor=ffdd54)
 ![Rabbitmq](https://img.shields.io/badge/rabbitmq-45818e?style=for-the-badge&logo=rabbitmq&logoColor=ffdd54)
-![Baml](https://img.shields.io/badge/baml-c99f2a?style=for-the-badge&logo=baml&logoColor=ffdd54)
+![Baml](https://img.shields.io/badge/baml-c99f2a?style=for-the-badge&logo=https%3A%2F%2Fapp.buildwithfern.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Ffdr-prod-docs-files-public.s3.amazonaws.com%252Fhttps%253A%252F%252Fboundary.docs.buildwithfern.com%252F2024-10-02T13%253A36%253A52.976Z%252Fassets%252Ffavicon.ico%26w%3D48%26q%3D100&logoColor=ffdd54)
 ![Postgresql](https://img.shields.io/badge/postgresql-38761d?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
 ![Mysql](https://img.shields.io/badge/mysql-38761d?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 ![Coolify](https://img.shields.io/badge/coolify-b45f06?style=for-the-badge&logo=codio&logoColor=ffdd54)
