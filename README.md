@@ -19,6 +19,7 @@
 ![Baml](https://img.shields.io/badge/baml-c99f2a?style=for-the-badge&logo=https%3A%2F%2Fapp.buildwithfern.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Ffdr-prod-docs-files-public.s3.amazonaws.com%252Fhttps%253A%252F%252Fboundary.docs.buildwithfern.com%252F2024-10-02T13%253A36%253A52.976Z%252Fassets%252Ffavicon.ico%26w%3D48%26q%3D100&logoColor=ffdd54)
 ![Postgresql](https://img.shields.io/badge/postgresql-38761d?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
 ![Mysql](https://img.shields.io/badge/mysql-38761d?style=for-the-badge&logo=mysql&logoColor=ffdd54)
+![Supabase](https://img.shields.io/badge/supabase-38761d?style=for-the-badge&logo=supabase&logoColor=ffdd54)
 ![Coolify](https://img.shields.io/badge/coolify-b45f06?style=for-the-badge&logo=codio&logoColor=ffdd54)
 ![Githubactoins](https://img.shields.io/badge/actions-b45f06?style=for-the-badge&logo=githubactions&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-b45f06?style=for-the-badge&logo=docker&logoColor=ffdd54)
