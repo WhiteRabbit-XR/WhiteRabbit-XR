@@ -27,6 +27,8 @@
 ![Hetzner](https://img.shields.io/badge/hetzner-870c0c?style=for-the-badge&logo=hetzner&logoColor=ffdd54) 
 ![Aws](https://img.shields.io/badge/aws-870c0c?style=for-the-badge&logo=amazonwebservices&logoColor=ffdd54)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-870c0c?style=for-the-badge&logo=cloudflare&logoColor=ffdd54)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffdd54)
+
 
 
 
