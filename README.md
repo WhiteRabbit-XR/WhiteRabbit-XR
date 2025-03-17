@@ -21,13 +21,13 @@
 ![Postgresql](https://img.shields.io/badge/postgresql-38761d?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
 ![Mysql](https://img.shields.io/badge/mysql-38761d?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 ![Supabase](https://img.shields.io/badge/supabase-38761d?style=for-the-badge&logo=supabase&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-b45f06?style=for-the-badge&logo=docker&logoColor=ffdd54)
 ![Coolify](https://img.shields.io/badge/coolify-b45f06?style=for-the-badge&logo=codio&logoColor=ffdd54)
 ![Githubactoins](https://img.shields.io/badge/actions-b45f06?style=for-the-badge&logo=githubactions&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-b45f06?style=for-the-badge&logo=docker&logoColor=ffdd54)
 ![Hetzner](https://img.shields.io/badge/hetzner-870c0c?style=for-the-badge&logo=hetzner&logoColor=ffdd54) 
 ![Aws](https://img.shields.io/badge/aws-870c0c?style=for-the-badge&logo=amazonwebservices&logoColor=ffdd54)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-870c0c?style=for-the-badge&logo=cloudflare&logoColor=ffdd54)
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffdd54)
+![Ubuntu](https://img.shields.io/badge/ubuntu-D94C1D?style=for-the-badge&logo=ubuntu&logoColor=ffdd54)
 
 
 
