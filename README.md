@@ -11,7 +11,7 @@
 ![Electron](https://img.shields.io/badge/electron-a64d79?style=for-the-badge&logo=electron&logoColor=ffdd54)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-a64d79?style=for-the-badge&logo=tailwindcss&logoColor=ffdd54)
 ![Radix-UI](https://img.shields.io/badge/radixui-a64d79?style=for-the-badge&logo=radixui&logoColor=ffdd54)
-![React-Native](https://img.shields.io/badge/react-7A4DA6?style=for-the-badge&logo=react&logoColor=ffdd54)
+![React.Native](https://img.shields.io/badge/react-7A4DA6?style=for-the-badge&logo=react&logoColor=ffdd54)
 ![Expo](https://img.shields.io/badge/expo-7A4DA6?style=for-the-badge&logo=expo&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-45818e?style=for-the-badge&logo=flask&logoColor=ffdd54)
 ![Fastapi](https://img.shields.io/badge/fastapi-45818e?style=for-the-badge&logo=fastapi&logoColor=ffdd54)
