@@ -20,7 +20,6 @@
 ![Redis](https://img.shields.io/badge/redis-45818e?style=for-the-badge&logo=redis&logoColor=ffdd54)
 ![Celery](https://img.shields.io/badge/celery-45818e?style=for-the-badge&logo=celery&logoColor=ffdd54)
 ![Rabbitmq](https://img.shields.io/badge/rabbitmq-45818e?style=for-the-badge&logo=rabbitmq&logoColor=ffdd54)
-![Baml](https://img.shields.io/badge/baml-c99f2a?style=for-the-badge&logo=https%3A%2F%2Fapp.buildwithfern.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Ffdr-prod-docs-files-public.s3.amazonaws.com%252Fhttps%253A%252F%252Fboundary.docs.buildwithfern.com%252F2024-10-02T13%253A36%253A52.976Z%252Fassets%252Ffavicon.ico%26w%3D48%26q%3D100&logoColor=ffdd54)
 ![Postgresql](https://img.shields.io/badge/postgresql-38761d?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
 ![Mysql](https://img.shields.io/badge/mysql-38761d?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 ![Supabase](https://img.shields.io/badge/supabase-38761d?style=for-the-badge&logo=supabase&logoColor=ffdd54)
@@ -30,6 +29,7 @@
 ![Hetzner](https://img.shields.io/badge/hetzner-870c0c?style=for-the-badge&logo=hetzner&logoColor=ffdd54) 
 ![Aws](https://img.shields.io/badge/aws-870c0c?style=for-the-badge&logo=amazonwebservices&logoColor=ffdd54)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-870c0c?style=for-the-badge&logo=cloudflare&logoColor=ffdd54)
+![Stripe](https://img.shields.io/badge/stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=ffdd54)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-D94C1D?style=for-the-badge&logo=ubuntu&logoColor=ffdd54)
 
 
