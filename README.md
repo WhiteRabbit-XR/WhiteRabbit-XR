@@ -7,6 +7,7 @@
 ![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-a64d79?style=for-the-badge&logo=react&logoColor=ffdd54)
 ![Next.js](https://img.shields.io/badge/next.js-a64d79?style=for-the-badge&logo=next.js&logoColor=ffdd54)
+![Angular](https://img.shields.io/badge/angular-a64d79?style=for-the-badge&logo=angular&logoColor=ffdd54)
 ![Ghost](https://img.shields.io/badge/ghost-a64d79?style=for-the-badge&logo=ghost&logoColor=ffdd54)
 ![Electron](https://img.shields.io/badge/electron-a64d79?style=for-the-badge&logo=electron&logoColor=ffdd54)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-a64d79?style=for-the-badge&logo=tailwindcss&logoColor=ffdd54)
