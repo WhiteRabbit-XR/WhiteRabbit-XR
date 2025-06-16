@@ -28,6 +28,7 @@
 ![Mysql](https://img.shields.io/badge/mysql-38761d?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 ![Redis](https://img.shields.io/badge/redis-38761d?style=for-the-badge&logo=redis&logoColor=ffdd54)
 ![Supabase](https://img.shields.io/badge/supabase-38761d?style=for-the-badge&logo=supabase&logoColor=ffdd54)
+![Timescale](https://img.shields.io/badge/timescale-38761d?style=for-the-badge&logo=timescale&logoColor=ffdd54)
 ![Minio](https://img.shields.io/badge/minio-3e5c9a?style=for-the-badge&logo=minio&logoColor=ffdd54)
 ![backblaze](https://img.shields.io/badge/backblaze-3e5c9a?style=for-the-badge&logo=backblaze&logoColor=ffdd54)
 ![PostHog](https://img.shields.io/badge/posthog-b45f06?style=for-the-badge&logo=posthog&logoColor=ffdd54)
