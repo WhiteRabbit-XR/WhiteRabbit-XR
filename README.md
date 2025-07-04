@@ -40,6 +40,8 @@
 ![traefik](https://img.shields.io/badge/traefik-36454F?style=for-the-badge&logo=traefikproxy&logoColor=ffdd54)
 ![nginx](https://img.shields.io/badge/nginx-36454F?style=for-the-badge&logo=nginx&logoColor=ffdd54)
 ![Stripe](https://img.shields.io/badge/stripe-17569E?style=for-the-badge&logo=stripe&logoColor=ffdd54)
+![Pre-commit](https://img.shields.io/badge/pre--commit-e28743?style=for-the-badge&logo=pre-commit&logoColor=ffdd54)
+![Commitlint](https://img.shields.io/badge/commitlint-e28743?style=for-the-badge&logo=commitlint&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-D94C1D?style=for-the-badge&logo=docker&logoColor=ffdd54)
 ![Coolify](https://img.shields.io/badge/coolify-D94C1D?style=for-the-badge&logo=codio&logoColor=ffdd54)
 ![Githubactoins](https://img.shields.io/badge/actions-D94C1D?style=for-the-badge&logo=githubactions&logoColor=ffdd54)
