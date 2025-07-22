@@ -9,6 +9,7 @@
 ![Angular](https://img.shields.io/badge/angular-a64d79?style=for-the-badge&logo=angular&logoColor=ffdd54)
 ![React Native](https://img.shields.io/badge/react.native-7A4DA6?style=for-the-badge&logo=react&logoColor=ffdd54)
 ![Expo](https://img.shields.io/badge/expo-7A4DA6?style=for-the-badge&logo=expo&logoColor=ffdd54)
+![Tauri](https://img.shields.io/badge/tauri-587ae4?style=for-the-badge&logo=tauri&logoColor=ffdd54)
 ![Electron](https://img.shields.io/badge/electron-587ae4?style=for-the-badge&logo=electron&logoColor=ffdd54)
 ![Ghost](https://img.shields.io/badge/ghost-587ae4?style=for-the-badge&logo=ghost&logoColor=ffdd54)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-b55cc5?style=for-the-badge&logo=tailwindcss&logoColor=ffdd54)
