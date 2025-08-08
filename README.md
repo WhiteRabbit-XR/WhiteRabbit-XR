@@ -52,6 +52,7 @@
 ![Aws](https://img.shields.io/badge/aws-870c0c?style=for-the-badge&logo=icloud&logoColor=ffdd54)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-870c0c?style=for-the-badge&logo=cloudflare&logoColor=ffdd54)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-A41113?style=for-the-badge&logo=ubuntu&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/linux-A41113?style=for-the-badge&logo=linux&logoColor=ffdd54)
 
 
 
