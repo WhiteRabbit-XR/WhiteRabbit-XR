@@ -22,6 +22,7 @@
 ![TanStack Query](https://img.shields.io/badge/tanstack-4E707B?style=for-the-badge&logo=reactquery&logoColor=ffdd54)
 ![Zod](https://img.shields.io/badge/zod-4E707B?style=for-the-badge&logo=zod&logoColor=ffdd54)
 ![Fastapi](https://img.shields.io/badge/fastapi-6366F1?style=for-the-badge&logo=fastapi&logoColor=ffdd54)
+![Phoenix](https://img.shields.io/badge/phoenix-6366F1?style=for-the-badge&logo=phoenixframework&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-6366F1?style=for-the-badge&logo=flask&logoColor=ffdd54)
 ![gRPC](https://img.shields.io/badge/grpc-6366F1?style=for-the-badge&logo=google&logoColor=ffdd54)
 ![Sqlalchemy](https://img.shields.io/badge/sqlalchemy-6366F1?style=for-the-badge&logo=sqlalchemy&logoColor=ffdd54)
