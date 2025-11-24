@@ -2,10 +2,11 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Elixir](https://img.shields.io/badge/elixir-3670A0?style=for-the-badge&logo=elixir&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-3670A0?style=for-the-badge&logo=go&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-3670A0?style=for-the-badge&logo=rust&logoColor=ffdd54)
 ![Typescript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd54)
 ![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-a64d79?style=for-the-badge&logo=react&logoColor=ffdd54)
+![Vite](https://img.shields.io/badge/vite-a64d79?style=for-the-badge&logo=vite&logoColor=ffdd54)
 ![Next.js](https://img.shields.io/badge/next.js-a64d79?style=for-the-badge&logo=next.js&logoColor=ffdd54)
 ![Angular](https://img.shields.io/badge/angular-a64d79?style=for-the-badge&logo=angular&logoColor=ffdd54)
 ![React Native](https://img.shields.io/badge/react.native-7A4DA6?style=for-the-badge&logo=react&logoColor=ffdd54)
